@@ -20,7 +20,8 @@ The test process was performed based on the standard test process as described b
 ### 1.1 Test planning
 The Test Plan is designed to describe all details of testing for the "Contul meu" module from the Farmacia Tei application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare) <br> **- trebuie sa fac test plan-ul, dar nu prea stiu exact cum sa-l adaptez. Daca imi poti da o directie, te rog.**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here [Test plan FarmaciaTei.docx](https://github.com/IrinaC91/Manual_Testing_Jira/files/15283252/Test.plan.FarmaciaTei.docx)
+ <br> 
 
 #### 1.1.1. Roles asigned to the project and persons allocated
 
@@ -35,9 +36,6 @@ The plan identifies the items to be tested, the features to be tested, the types
  - The test strategy is developed
  - The project risks are identified and mitigated
  - The test plan is created and approved
- - The test data is prepared
- - Test environment has been set-up and all other necessary resources such as tools and devices are available
- - The test cases are developed and approved
 
 #### 1.1.3 Exit criteria defined
  - All the test cases have been alocated
@@ -87,7 +85,7 @@ The role of test monitoring and control is critical in the overall software test
 - Resource management
 - Risk management
 - Defect management
-- Desicion making
+- Decision making
 - Continuous improvement
 
 ![teste](https://github.com/IrinaC91/Manual_Testing_Jira/assets/167686962/e756337a-0313-434f-abae-5b217c184ba0)
