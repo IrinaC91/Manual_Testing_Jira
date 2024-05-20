@@ -34,7 +34,7 @@ The plan identifies the items to be tested, the features to be tested, the types
  - The roles are alocated to the team members
  - The requirements are defined and approved
  - The test strategy is developed
- - The project risks are identified and mitigated
+ - The product risks are identified and mitigated
  - The test plan is created and approved
 
 #### 1.1.3 Exit criteria defined
